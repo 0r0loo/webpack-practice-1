@@ -9,4 +9,4 @@
 5.  es6-module
 6.  code-split
 7.  webpack-dev-server
-8.  잡다한 연습ㅋ practice 폴더
+8.  practice 폴더(이미지 파일로더, css로더, 웹팩데브서버)
