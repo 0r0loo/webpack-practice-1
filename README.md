@@ -8,4 +8,5 @@
 4.  웹팩 설정파일 적용
 5.  es6-module
 6.  code-split
-7.  webpac-dev-server
+7.  webpack-dev-server
+8.  잡다한 연습ㅋ practice 폴더
